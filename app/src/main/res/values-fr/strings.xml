@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Substitution de code</string>
+
+    <string name="clipboard_encrypted_text">Texte copié !</string>
+    <string name="preview_EditText">Appuyer pour insérer du text</string>
+    <string name="text_encrypt_button">Encrypter</string>
+    <string name="text_decrypt_button">Décrypter</string>
+    <string name="text_result">Le résultat sera affiché ici</string>
+    <string name="text_key">Clé : %d</string>
+    <string name="server_error_text">Une erreur s\'est produite réessayer plus tard !</string>
+    <string name="wifi_error_text">Une erreur de connection au wifi s\'est produite !</string>
+    <string name="text_filter_text">Envoyer du texte à l\'application</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Substitution Cypher</string>
+
+	<string name="clipboard_encrypted_text">Text copied !</string>
+    <string name="preview_EditText">Tap to input some text</string>
+    <string name="text_encrypt_button">Encrypt</string>
+    <string name="text_decrypt_button">Decrypt</string>
+    <string name="text_result">Result will be shown here</string>
+    <string name="text_key">Key :&#160;</string>
+    <string name="server_error_text">An error occured try again later !</string>
+    <string name="wifi_error_text">A wifi connection error occured !</string>
+    <string name="main_filter_text">Main filter</string>
+    <string name="text_filter_text">Send text to the application</string>
+</resources>
